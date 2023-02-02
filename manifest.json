@@ -12,7 +12,7 @@
     "content_scripts": [
         {
             "css": ["./style.css"],
-            "matches": ["https://italeemc.iium.edu.my/*","https://imaluum.iium.edu.my/"]
+            "matches": ["https://italeemc.iium.edu.my/*","https://imaluum.iium.edu.my/*"]
         }
     ]
 }
