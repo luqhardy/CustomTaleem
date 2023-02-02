@@ -12,7 +12,6 @@ body{
 }
 div {
     display: block;
-	background-color: rgba(0,0,0,0.5)!important;
     border: 1px solid rgba(0,0,0,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
@@ -37,7 +36,7 @@ footer::after{
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-	background-color: rgba(0,0,0,0.5)!important;
+	background-color: rgba(255,255,255,0.5)!important;
     border: 1px solid rgba(0,0,0,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
