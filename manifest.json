@@ -1,6 +1,6 @@
 {
-    "manifest_version": 2,
-    "name": "iTaleeMalam",
+    "manifest_version": 3,
+    "name": "CustomTaleem",
     "version": "0.1",
     "icons": {
         "16": "images/icon16.png",
@@ -8,10 +8,10 @@
         "48": "images/icon48.png",
         "128": "images/icon128.png"
     },
-    "description": "A dark mode for iTaleem!",
+    "description": "Custom Images for iTaleem",
     "content_scripts": [
         {
-            "css": ["./style.css","./yui-moodlesimple-min.css"],
+            "css": ["./style.css"],
             "matches": ["https://italeemc.iium.edu.my/*"]
         }
     ]
