@@ -1,14 +1,14 @@
 body{
     background-size: contain;
-    background-image:url('https://images2.alphacoders.com/897/897212.png') !important;
+    background-image:url('https://images2.alphacoders.com/856/thumb-1920-856712.jpg') !important;
 }
 #page {
     background-size: contain;
-    background-image:url('https://images2.alphacoders.com/897/897212.png') !important;
+    background-image:url('https://images2.alphacoders.com/856/thumb-1920-856712.jpg') !important;
 }
 .body-page {
 	background-size: contain;
-	background:#ECF0F5 url("https://images2.alphacoders.com/897/897212.png") repeat center !important;
+	background:#ECF0F5 url("https://images2.alphacoders.com/856/thumb-1920-856712.jpg") repeat center !important;
 }
 footer::after{
     content:"Hardy was here";
