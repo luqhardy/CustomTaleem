@@ -45,7 +45,7 @@ footer::after{
 	backdrop-filter: blur(10px)!important;
     position: relative;
     border-radius: 3px;
-    background: rgba(0,0,0,0.5)!important;
+    background: rgba(255,255,255,0.5)!important;
     border-top: 3px solid rgba(0,0,0,0.5)!important;
     margin-bottom: 20px;
     width: 100%;
