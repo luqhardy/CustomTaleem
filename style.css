@@ -70,6 +70,8 @@ a.popover-region-toggle:focus,p.message,.fp-filename,.list-group-item-action,.dr
     padding:0px 0px!important
 }
 .dropdown-item,option{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     border-bottom:1px solid #080808;
 }
 #region-main{
@@ -87,12 +89,18 @@ a,footer::after{
     backdrop-filter: blur(10px)!important;font-weight:600!important
 }
 .custom-control-input:checked~.custom-control-label::before, .progress-bar{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
 .reveal-password,header,footer,.bg-white,.navbar-bootswatch,.btn-secondary,.btn-primary,.navbar-brand:focus,.navbar-brand:hover,.page-link,.nav-link,#action-menu-toggle-0,div.editor_atto_toolbar button{
-    backdrop-filter: blur(10px)!important;
+    color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
+	backdrop-filter: blur(10px)!important;
 }
 .btn-primary,.btn-secondary,.border,.page-link{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
    backdrop-filter: blur(10px)!important;
 }
 .accesskey,.mdc-floating-label,input,input::placeholder,.dropdown-item,option,.btn-outline-secondary,p,h1,h2,h3,h4,h5,.h6,.dropdown-header,small,span.text-muted,small.text-muted,div.text-muted,div,.btn-secondary,.navbar-brand,th,td,textarea.form-control::placeholder,select,input.form-control,.closebutton,.close,strong,.navbar-bootswatch a i.icon,i.icon,.day, pre{
@@ -126,18 +134,28 @@ input::-moz-placeholder,input::-webkit-input-placeholder{
     backdrop-filter: blur(10px)!important;
 }
 div.border-right{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
 div.border-left{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
 div.border-top, .modal-footer{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
 div.border-bottom, .modal-header{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
 div.border,.mdc-notched-outline__leading,.mdc-notched-outline__notch,.mdc-notched-outline__trailing{
+	color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;
     backdrop-filter: blur(10px)!important;
 }
 .policiesfooter{
@@ -184,10 +202,16 @@ backdrop-filter: blur(10px)!important;
 
 
 .card {
-    background-color: darken($color: $body-bg-dark, $amount: 2);
-    border: 1px solid darken($color: $body-bg-dark, $amount: 4);
+    background-color: rgba(255,255,255,0.5)!important;
+    border: 1px solid rgba(255,255,255,0.5)!important;
+    backdrop-filter: blur(10px)!important;
 }
 
  #region-main {
     background: $body-bg-dark;
+}
+.accesskey, .mdc-floating-label, input, input::placeholder, .dropdown-item, option, .btn-outline-secondary, p, h1, h2, h3, h4, h5, .h6, .dropdown-header, small, span.text-muted, small.text-muted, div.text-muted, div, .btn-secondary, .navbar-brand, th, td, textarea.form-control::placeholder, select, input.form-control, .closebutton, .close, strong, .navbar-bootswatch a i.icon, i.icon, .day, pre {
+backdrop-filter: blur(10px)!important;
+color: rgba(255,255,255,0.5)!important;
+background-color: rgba(255,255,255,0.5)!important;	
 }
