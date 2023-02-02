@@ -1,12 +1,12 @@
 body{
-    background-size: contain;
+    background-size: cover;
     background-image:url('https://images2.alphacoders.com/897/897212.png') !important;
 }
 #page {
-    background-size: contain;
+    background-size: cover;
     background-image:url('https://images2.alphacoders.com/897/897212.png') !important;
 }
 .body-page {
 	background-size: contain;
-	background:#ECF0F5 url("https://images2.alphacoders.com/897/897212.png") repeat center;
+	background:#ECF0F5 url("https://images2.alphacoders.com/897/897212.png") repeat center !important;
 }
