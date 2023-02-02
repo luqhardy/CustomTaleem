@@ -1,5 +1,6 @@
 # CustomTaleem
 Chrome extension that gives your IIUM iTaleem Learning System a custom background of your choosing!
+Now with iMaluum support!!!!!!!!!!
 
 ## How to use
 Replace the links in the style.css file to the links of the backgrounds you prefer.
