@@ -8,11 +8,11 @@
         "48": "images/icon48.png",
         "128": "images/icon128.png"
     },
-    "description": "Custom Images for iTaleem",
+    "description": "Custom Images for iTaleem & iMaluum",
     "content_scripts": [
         {
             "css": ["./style.css"],
-            "matches": ["https://italeemc.iium.edu.my/*"]
+            "matches": ["https://italeemc.iium.edu.my/*","https://imaluum.iium.edu.my/"]
         }
     ]
 }
