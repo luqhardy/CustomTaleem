@@ -1,14 +1,17 @@
 body{
-    background-size: contain;
-    background-image:url('https://images2.alphacoders.com/856/thumb-1920-856712.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-image:url('https://media.tenor.com/202SmDBdl3IAAAAC/mahiro-oyama-happy.gif') !important;
 }
 #page {
-    background-size: contain;
-    background-image:url('https://images2.alphacoders.com/856/thumb-1920-856712.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-image:url('https://media.tenor.com/202SmDBdl3IAAAAC/mahiro-oyama-happy.gif') !important;
 }
 .body-page {
-	background-size: contain;
-	background:#ECF0F5 url("https://images2.alphacoders.com/856/thumb-1920-856712.jpg") repeat center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+	background:#ECF0F5 url("https://media.tenor.com/202SmDBdl3IAAAAC/mahiro-oyama-happy.gif")!important;
 }
 
 footer::after{
